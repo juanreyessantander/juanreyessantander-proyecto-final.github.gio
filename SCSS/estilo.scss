@@ -3,4 +3,8 @@
 @import "header";
 @import "main";
 @import "footer";
-body{background-color: $bg-color-fondo;}
+body{background-color: $bg-color-fondo;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    }
